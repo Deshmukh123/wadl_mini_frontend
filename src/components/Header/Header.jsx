@@ -9,7 +9,7 @@ import Link from 'react-router-dom';
 const navLinks = [
   {
     display: "Home",
-    url: "http://localhost:3000/",
+    url: "/",
   },
   {
     display: "Admin",
