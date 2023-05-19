@@ -1,0 +1,18 @@
+button {
+    -webkit-appearance: button;
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    width: 40%;
+    height: 100%;
+    padding: 1.5%;
+}
+.button11 {border-radius: 11px;
+    background-color: rgb(33, 4, 50);
+
+}
+
+.SignUp > input{
+    width: 10%;
+    padding-bottom:2%;
+    border-radius: 8px;
+}
